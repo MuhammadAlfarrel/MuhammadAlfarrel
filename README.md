@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello pals 👋
 
 <!--
 **MuhammadAlfarrel/MuhammadAlfarrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>I'm Muhammad Alfarrel Arya Mahardika, currently i'm Computer Engineering Student at Electronic Engineering Polytechnic Institute of Surabaya. <br>
+I'm I am interested in electronic design and troubleshooting, Internet of Things and Embedded System, and also currently studying about machine learning. <br>
+If you are also interested in what I do and we have the same vision, you can follow my account.🤝 And let's Growing Together 🌱 <br>
+---
+You also can follow my other sosial media page to know about my progress and achievement: <br>
+**Instagram**: [@_alfarrelm_](https://www.instagram.com/_alfarrelm_/)<br>
+**Linkedin** : [muhammad-alfarrel-arya-mahardika](https://www.linkedin.com/in/muhammad-alfarrel-arya-mahardika/)
+
