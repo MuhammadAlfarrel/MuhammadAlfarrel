@@ -19,6 +19,14 @@ Here are some ideas to get you started:
     <br>If you're interested in what I do and we have the same vision, feel free to follow my account. 🤝 Let's grow together! 🌱
 </p>
 
+---
+### Found me on another Social Media
+
+**Instagram**: 📸 [@_alfarrelm_](https://www.instagram.com/_alfarrelm_/)<br>
+**Linkedin** : 💼 [muhammad-alfarrel-arya-mahardika](https://www.linkedin.com/in/muhammad-alfarrel-arya-mahardika/)
+
+---
+
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/penuliscode">
@@ -33,9 +41,5 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/MuhammadAlfarrel/MuhammadAlfarrel/main/assets/sertifikat-dicoding-machine-learning-pemula_page-0001.jpg" width="33%" style="margin-left: 1%;">
 </div>
 
----
-### Found me on another Social Media
 
-**Instagram**: 📸 [@_alfarrelm_](https://www.instagram.com/_alfarrelm_/)<br>
-**Linkedin** : 💼 [muhammad-alfarrel-arya-mahardika](https://www.linkedin.com/in/muhammad-alfarrel-arya-mahardika/)
 
